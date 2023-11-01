@@ -34,3 +34,7 @@ public class HelloWorld {
     }
 }
 ```
+
+### 実行結果イメージ
+
+![Convert COBOL to Java](images/copilot-chat-cobol-to-java.png)

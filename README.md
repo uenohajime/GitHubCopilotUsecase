@@ -10,6 +10,7 @@
 - [GitHub Copilot Chat の使用例](usecases_copilot_chat.md)
 - [業種別使い方リンク](role_based_links.md)
 - [プログラム言語別使い方リンク](language_based_links.md)
+- [参考情報](references.md)
 
 ## 免責事項
 
